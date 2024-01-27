@@ -3,6 +3,7 @@ This project endeavors to revolutionize PGA Tour predictions by combining tradit
 
 ## Important Links
 Project Board: https://github.com/orgs/vanderbilt-data-science/projects/63/views/1
+
 Issues: https://github.com/vanderbilt-data-science/pga-tour-advanced-analytics/issues
 
 ## Project PI/Project Team 
