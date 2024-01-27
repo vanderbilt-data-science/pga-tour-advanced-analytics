@@ -1,6 +1,10 @@
 # PGA Tour Advanced Analytics
 This project endeavors to revolutionize PGA Tour predictions by combining traditional machine learning approaches with cutting-edge in-context learning techniques, utilizing tools like ChatGPT's Advanced Data Analysis, Claude, and Microsoft Copilot. Moving beyond conventional analytics, the project aims to accurately predict tournament outcomes, demonstrating the advanced capabilities of large language models in transforming sports analytics.
 
+## Important Links
+Project Board: https://github.com/orgs/vanderbilt-data-science/projects/63/views/1
+Issues: https://github.com/vanderbilt-data-science/pga-tour-advanced-analytics/issues
+
 ## Project PI/Project Team 
 
 Zach Printz, zachary.h.printz@vanderbilt.edu, printzzh, PI
