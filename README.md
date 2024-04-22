@@ -4,6 +4,8 @@ This project endeavors to revolutionize PGA Tour predictions by combining tradit
 ## Important Links
 Final Project Writeup: https://github.com/vanderbilt-data-science/pga-tour-advanced-analytics/blob/main/Final%20Project%20Writeup.pdf
 
+Final In-Context Learning Prompts: https://github.com/vanderbilt-data-science/pga-tour-advanced-analytics/blob/main/Final%20In-Context%20Learning%20Prompts.pdf
+
 Project Board: https://github.com/orgs/vanderbilt-data-science/projects/63/views/1
 
 Issues: https://github.com/vanderbilt-data-science/pga-tour-advanced-analytics/issues
